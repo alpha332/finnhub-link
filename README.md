@@ -4,3 +4,4 @@ https://my.vanderbilt.edu/ashleytran11/finnhub-free-stock-api/
 http://www.columbia.edu/~tmd2142/free-stock-api.html
 https://confluence.cornell.edu/display/shanmaklab/Finnhub+Stock+API
 https://www.kickstarter.com/projects/782480721/technical-analysis-pattern-scanner-for-retail-trad/posts/2733496
+https://www.startupschool.org/companies/KlMgESvvUbkpew
